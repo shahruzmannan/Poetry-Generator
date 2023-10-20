@@ -1,7 +1,8 @@
 # Poem Generator
+Implemented a Poem Generator using Long short-term memory networks (LSTM) with word2vec embeddings.
 
 
-1 . Install all necessary packages (can be done straight in jupyter notebook)
+1 . Install all necessary packages (can be done straight in Jupyter notebook)
 	-!pip install pandas
 	-!pip install numpy
 	-!pip intall matplotlib
