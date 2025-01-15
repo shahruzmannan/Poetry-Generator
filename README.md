@@ -1,5 +1,5 @@
 # Poetry Generator
-Implemented a Poetry Generator using Long short-term memory networks (LSTM) with word2vec embeddings as a term project.
+Implemented a Poetry Generator using Long short-term memory Neural Networks (LSTM) with word2vec embeddings as a term project.
 
 1. Install all necessary packages (can be done straight in Jupyter Notebook)
 	* !pip install pandas
